@@ -43,7 +43,7 @@ if enviado:
 st.subheader("Últimos pacientes cadastrados")
 st.dataframe(st.session_state.pacientes.tail(5), use_container_width=True)
 
-csv = st.session_state.pacientes.to_csv(index=False).encode("utf-8")
+csv = st.session_state.pacientes.to_csv(index=False).encode("utf-8-sig")
 st.download_button(
     "Baixar CSV",
     data=csv,
