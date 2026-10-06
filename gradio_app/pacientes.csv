@@ -1,0 +1,10 @@
+timestamp,nome,idade,convenio,prioridade,motivo
+2026-10-05 21:14:26,Ana,28,Bradesco Saúde,5,Cirurgia
+2026-10-05 21:16:54,Ana,28,Unimed,5,Cirurgia
+2026-10-05 21:17:07,João,50,Particular,3,Rotina
+2026-10-05 21:17:24,Laura,10,SulAmérica,2,Sintomas de resfriado
+2026-10-05 21:17:51,Luis,15,Bradesco Saúde,3,Rotina
+2026-10-05 21:19:36,Lucas,20,Particular,1,Rotina
+2026-10-05 21:20:42,Maria Clara,15,Bradesco Saúde,3,Dores no corpo e febre
+2026-10-05 21:22:34,José,70,Unimed,4,Cliente com dores nas pernas e lombar
+2026-10-05 21:41:10,Mariana,30,Particular,1,Paciente solicita pedidos de exames de rotina
